@@ -17,7 +17,7 @@ Testing: 500
 Fast for Colab demo.
 
 Working Process at a glance:
-4. Intuition
+
 
 Q (query) = what the feature “wants to know.”
 
